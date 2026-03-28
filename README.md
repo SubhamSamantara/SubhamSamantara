@@ -42,12 +42,6 @@
 
 ## 🚀 Projects
 
-### 📌 AI Resume & Skill Gap Analyzer
-
-* Analyzes resumes using NLP
-* Suggests missing skills based on job roles
-* Built using Python & ML
-
 ### 📌 Coin Denomination Detection
 
 * Detects currency using image processing
